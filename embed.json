@@ -1,0 +1,24 @@
+{
+    "profile": {
+        "username": "2FA",
+        "avatar_url": "https://media.discordapp.net/attachments/1344761301154533477/1344913835718479885/ROCKSTAR_4.png?ex=67c2a41d&is=67c1529d&hm=29208d0359bae8c35ccb5c6ef5154bec84f66ec6eef4f6fd9c1b55e7e8bd7ffb&=&format=webp&quality=lossless"
+    },
+    "embeds": [
+        {
+            "title": "",
+            "description": "1",
+            "color": "#FFFAFA",
+            "thumbnail": {
+                "url": ""
+            },
+            "image": {
+                "url": "https://media.discordapp.net/attachments/1344761301154533477/1346599118285439069/ROCKSTAR_19.png?ex=67c8c5a8&is=67c77428&hm=10a8ef69e83f202fa9ddd805892992c79a8eb1453367fcfbd92e4e4868683a86&=&format=webp&quality=lossless"
+            }
+        }
+   
+
+
+
+    ],
+    "body": ""
+}

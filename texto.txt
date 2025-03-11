@@ -1,0 +1,15 @@
+# GOAT STORE  
+
+**Ao adquirir uma conta, você receberá os seguintes dados:**  
+`xxxxxxx@xxxxxx.com:yyyyyyyyyyyy:P2M45HJ7HE24BCI5VNAHKJZ7Y`  
+
+- **E-mail:** xxxxxxx@xxxxxx.com  
+- **Senha:** yyyyyyyyyyyy  
+- **Codigo 2FA:** P2M45HJ7HE24BCI5VNAHKJZ7Y  
+
+### **Instruções para login:**  
+> <:PD_1:1344909885439217705>  **Abra o aplicativo da Rockstar Games e insira o e-mail e a senha fornecidos.**  
+> <:PD_2:1344909947598671933>  **No bot abaixo, clique na opção "2FA".**  
+> <:PD_3:1344910017790476308>  **Digite a chave secreta no campo exibido.**  
+> <:PD_4:1344910081438912572>  **Copie o código gerado.**  
+> <:PD_5:1344910165417394176>  **Retorne ao aplicativo da Rockstar Games, cole o código no campo correspondente e clique em "Enviar".**
