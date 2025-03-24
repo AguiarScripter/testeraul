@@ -1,4 +1,4 @@
-"tteste"
+
 const { 
     Client, 
     GatewayIntentBits,
